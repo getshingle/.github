@@ -15,6 +15,6 @@ nothing to install.
 | Repository | |
 | --- | --- |
 | [shingle](https://github.com/getshingle/shingle) | The template: download it, run `bash build.sh`, done |
-| [extensions](https://github.com/getshingle/extensions) | Blog, portfolio, news, team, careers and more |
-| [themes](https://github.com/getshingle/themes) | Other colors and fonts, light and dark |
+| [extensions](https://github.com/getshingle/extensions) | Services, menu, schedule, gallery, blog, team, forms and more |
+| [themes](https://github.com/getshingle/themes) | Twelve looks, light and dark |
 | [getshingle.github.io](https://github.com/getshingle/getshingle.github.io) | The guide, demos and downloads |
